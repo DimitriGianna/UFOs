@@ -14,3 +14,10 @@ The image above shows the main page on which the table is displayed, without any
 
 
 ## Summary
+
+### Drawback
+One drawback of this website is that the user can only search for specific dates which would make narrowing down a broad search time consuming.
+
+### Recommendations
+- Create a filter for date ranges so that the user is able to look up sightings by months or years
+- Make the search fields not be case-sensitive so that searches can be done with either uppercase or lowercase letters
